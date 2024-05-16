@@ -1,0 +1,5 @@
+Đề tài 10: Phân loại chữ số viết tay trên bộ dữ liệu MNIST
+Thành viên nhóm:
+- Đậu Văn An - 21000659 - K66A2 Toán Tin
+- Đặng Huy Hoàng - 21000680 - K66A2 Toán Tin
+- Đỗ Mạnh Hùng - 21000682 - K66A2 Toán Tin
